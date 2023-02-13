@@ -74,7 +74,7 @@
 .header{
     min-height: 100vh;
     width:100% ;
-    background-image: url(bg.jpeg);
+    background-image: url(https://www.neom.com/content/dam/neom/oxagon/c49/oxagon-main-hero-thumbnail.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -144,8 +144,9 @@ nav img{
 
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 17px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
+    font-weight: bold;
 }
 
 .hero-btn{
